@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Marcus Costa (@marcusbcosta)
 
 🚀 **About Me:**  
-I'm a **Business Operations Manager** turned **Data Analyst** with experience in **SQL, Python, Tableau, Power BI, and Excel**.  
+I'm a **Project Coordinator** studying **Data Analyst** with experience in **Project Management, SQL, Python, Tableau, Power BI, and Excel**.  
 I have a background in **Project Management, Financial Analysis, and I love using data to drive business decisions.  
 
 🎯 **Interests:**  
 - Data Analytics & Business Intelligence  
 - SQL & Database Management  
 - Power BI, Tableau & Data Visualization  
-- Cybersecurity & Risk Management  
+- Project Management & Risk Management  
 
 📚 **Currently Learning:**  
 - Advanced **Power Query** & Excel Functions  
@@ -22,7 +22,7 @@ I have a background in **Project Management, Financial Analysis, and I love usin
 
 📫 **How to Reach Me:**  
 - **LinkedIn:** [linkedin.com/in/marcusbcosta](#) 
-- **Email:** marcus.bulhoes11@gmail.com*  
+- **Email:** marcus.bulhoes11@gmail.com  
 
 ⚡ **Fun Fact:**  
 I love traveling and recently planned a **4-week Europe trip** covering Spain, Germany, Italy, and Greece! 🌍✈️  
